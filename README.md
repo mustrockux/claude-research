@@ -23,6 +23,7 @@ Synthetic research docs, personas, and simulated interviews for design explorati
 | [xcor-integrations-make](https://github.com/mustrockux/xcor-integrations-make) | Runnable prototype evaluated in `integrations/synthesis-figma-prototype-gaps-2026-07-22.md` |
 | [synthetics](https://github.com/mustrockux/synthetics) | Synthetics module documentation (separate from Integration Hub core) |
 | [product-design](https://github.com/mustrockux/product-design) | Cursor/Claude skills (`~/docs/product_design`) — references this repo for personas & playbook |
+| [learning](https://github.com/mustrockux/learning) | Career docs & agent course PDFs (`~/docs/learning`) |
 
 ## What lives here vs elsewhere
 
