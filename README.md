@@ -1,6 +1,6 @@
 # claude-research
 
-> **Local path:** `~/docs/claude_research` (GitHub: [mustrockux/claude-research](https://github.com/mustrockux/claude-research))
+> **Local path:** `~/research` (GitHub: [mustrockux/claude-research](https://github.com/mustrockux/claude-research))
 
 Synthetic research docs, personas, and simulated interviews for design exploration.
 
@@ -32,3 +32,7 @@ Synthetic research docs, personas, and simulated interviews for design explorati
 | Product PRD & design narrative | [chrono-casestudy/source-docs](https://github.com/mustrockux/chrono-casestudy/tree/main/source-docs) |
 | Prototype code | [xcor-integrations-make](https://github.com/mustrockux/xcor-integrations-make) |
 | Synthetics specs | [synthetics](https://github.com/mustrockux/synthetics) |
+
+## Reorganization (2026-09-30)
+
+Merged former `~/docs/claude_research` and local `~/research` copy. Superseded and product-source files are in `_archive/` (never deleted). See `~/REORG-CHANGELOG-2026-09-30.md`.

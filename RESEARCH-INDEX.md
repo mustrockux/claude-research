@@ -6,7 +6,7 @@
 |---|---|
 | [chrono-casestudy](https://github.com/mustrockux/chrono-casestudy) | PRD, design narrative, learning plan (`source-docs/`) |
 | [xcor-integrations-make](https://github.com/mustrockux/xcor-integrations-make) | Runnable prototype code only — not persona/interview copies |
-| [product-design](https://github.com/mustrockux/product-design) | Skills that **reference** this repo (`~/docs/claude_research`) |
+| [product-design](https://github.com/mustrockux/product-design) | Skills that **reference** this repo (`~/research`) |
 | [synthetics](https://github.com/mustrockux/synthetics) | Synthetics module specs (separate product surface) |
 
 ## Root files
@@ -39,5 +39,5 @@
 
 ## Local path
 
-Clone or open: `~/docs/claude_research`  
+Clone or open: `~/research`  
 Remote: [github.com/mustrockux/claude-research](https://github.com/mustrockux/claude-research)
