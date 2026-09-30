@@ -64,10 +64,10 @@ Touched repos/files include: `chrono-casestudy` (CLAUDE.md, README.md), `docs/pr
 
 | Repo | Path | Commit SHA |
 |---|---|---|
-| claude-research | `~/research` | `508e733ba85da8756f8f48f7ea8139d7ddff59ff` |
+| claude-research | `~/research` | `3df7d30` |
 | product-design | `~/docs/product_design` | `dc7346582683d5b0f7230ba4ee7c290b1e68dd11` |
 | Learning | `~/docs/learning` | `e4e3f985f1b046ed873f15a475e1eb7ed7b0712e` (unchanged) |
-| chrono-casestudy | `~/projects/chrono-casestudy` | `77db03ab92f8535ad2ad821e2adba3f5aedffe79` |
+| chrono-casestudy | `~/projects/chrono-casestudy` | `892b764` (clone instructions → `~/docs/README.md`) |
 | xcor-integrations-make | `~/projects/xcor-integrations-make` | `5663c6a5c5f688f2fe3b71a7e397bc43c426ed57` (unchanged) |
 | synthetics | `~/projects/synthetics` | `f3cf7707dfc821422df62c277589d5abe7b23349` (unchanged) |
 
@@ -77,6 +77,13 @@ Touched repos/files include: `chrono-casestudy` (CLAUDE.md, README.md), `docs/pr
 - `~/docs/README.md`, `~/docs/REORG-NOTE.md`
 - `~/docs/claude_research/MOVED.md`
 - `~/projects/README.md`, `~/projects/REORG-NOTE.md`
+
+## Follow-up (post-reorg)
+
+| Date | Action |
+|---|---|
+| 2026-09-30 | chrono-casestudy `892b764`: `CLAUDE.md` + `README.md` reference `~/docs/README.md` for sibling clone layout |
+| 2026-09-30 | Added **Clone repos** section to local `~/docs/README.md` so that cross-reference resolves |
 
 ---
 
