@@ -35,4 +35,4 @@ Synthetic research docs, personas, and simulated interviews for design explorati
 
 ## Reorganization (2026-09-30)
 
-Merged former `~/docs/claude_research` and local `~/research` copy. Superseded and product-source files are in `_archive/` (never deleted). See `~/REORG-CHANGELOG-2026-09-30.md`.
+Merged former `~/docs/claude_research` and local `~/research` copy. Superseded and product-source files are in `_archive/` (never deleted). See [REORG-CHANGELOG-2026-09-30.md](./REORG-CHANGELOG-2026-09-30.md).
