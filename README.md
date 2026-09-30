@@ -1,5 +1,7 @@
 # claude-research
 
+> **Local path:** `~/docs/claude_research` (GitHub: [mustrockux/claude-research](https://github.com/mustrockux/claude-research))
+
 Synthetic research docs, personas, and simulated interviews for design exploration.
 
 > Synthetic research is a starting point, not a replacement for real user research.
