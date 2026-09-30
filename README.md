@@ -2,11 +2,30 @@
 
 Synthetic research docs, personas, and simulated interviews for design exploration.
 
+> Synthetic research is a starting point, not a replacement for real user research.
+
 ## Contents
 
-- `how-to-synthetic-research.md` — methodology guide
-- `integration-hub-personas.md` — XCOR Integration Hub persona index and workflows
-- `personas/` — synthetic user personas
-- `integrations/` — synthetic interview notes
+| Path | Description |
+|---|---|
+| `how-to-synthetic-research.md` | Methodology guide |
+| `integration-hub-personas.md` | Integration Hub persona index and workflows |
+| `personas/` | Synthetic user personas (Priya, Marcus, Alex) |
+| `integrations/` | Synthetic interview notes and prototype gap synthesis |
 
-> Synthetic research is a starting point, not a replacement for real user research.
+## Related repos
+
+| Repo | Role |
+|---|---|
+| [chrono-casestudy](https://github.com/mustrockux/chrono-casestudy) | Portfolio case study — PRD, design narrative, learning plan in `source-docs/` |
+| [xcor-integrations-make](https://github.com/mustrockux/xcor-integrations-make) | Runnable prototype evaluated in `integrations/synthesis-figma-prototype-gaps-2026-07-22.md` |
+| [synthetics](https://github.com/mustrockux/synthetics) | Synthetics module documentation (separate from Integration Hub core) |
+
+## What lives here vs elsewhere
+
+| Content | Canonical home |
+|---|---|
+| Synthetic personas & interviews | **This repo** |
+| Product PRD & design narrative | [chrono-casestudy/source-docs](https://github.com/mustrockux/chrono-casestudy/tree/main/source-docs) |
+| Prototype code | [xcor-integrations-make](https://github.com/mustrockux/xcor-integrations-make) |
+| Synthetics specs | [synthetics](https://github.com/mustrockux/synthetics) |

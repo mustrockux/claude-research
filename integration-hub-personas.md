@@ -6,6 +6,8 @@
 
 > Synthetic personas for design and research. Validate with real users before product decisions.
 
+**Related:** Product PRD personas → [chrono-casestudy/source-docs](https://github.com/mustrockux/chrono-casestudy/tree/main/source-docs) · Prototype → [xcor-integrations-make](https://github.com/mustrockux/xcor-integrations-make) · Gap synthesis → [integrations/synthesis-figma-prototype-gaps-2026-07-22.md](./integrations/synthesis-figma-prototype-gaps-2026-07-22.md)
+
 ---
 
 ## Primary persona

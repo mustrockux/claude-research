@@ -2,9 +2,9 @@
 
 **Date:** 2026-07-22  
 **Figma page:** [Research Synthesis](https://www.figma.com/design/ny3815szaxG3giFeYwEXil/Integrations-Hub?node-id=4964-56197) (page `Research Synthesis` in Integrations-Hub file)  
-**Sources:** Synthetic interviews (Priya, Marcus, Alex), [Figma MVP Final](https://www.figma.com/design/ny3815szaxG3giFeYwEXil/Integrations-Hub?node-id=4656-51255), current prototype (`src/app/`)
+**Sources:** Synthetic interviews (Priya, Marcus, Alex), [Figma MVP Final](https://www.figma.com/design/ny3815szaxG3giFeYwEXil/Integrations-Hub?node-id=4656-51255), [xcor-integrations-make prototype](https://github.com/mustrockux/xcor-integrations-make) (`src/app/`)
 
-> Synthetic research — validate with real users before build decisions.
+> Synthetic research — validate with real users before build decisions. Case study context → [chrono-casestudy](https://github.com/mustrockux/chrono-casestudy)
 
 ---
 
